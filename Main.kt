@@ -1,4 +1,5 @@
 import java.util.Scanner;
-fun main() {
 
+fun main() {
+    println("naber");
 }
